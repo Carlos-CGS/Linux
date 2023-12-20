@@ -1,0 +1,3 @@
+Este é um ariquivo teste.
+Ele deve ser encriptografado e descriptografado, 
+mantendo todo este etxto legível.
